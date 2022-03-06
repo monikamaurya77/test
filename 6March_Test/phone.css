@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    background-color: #001219;
+}
+header{
+    background-color: #0a9396;
+    display: inline-block;
+    width: 100%;
+    
+}
+h1{
+    color: #fff;
+    font-size: 300%;
+    margin-left: 100px;
+}
+input{
+    margin-left: 80vh;
+    margin-top: -60px;
+    display: inline-block;
+    position: absolute;
+
+
+
+}
+
+button{
+    margin-left: 100vh;
+    margin-top: -60px;
+    display: inline-block;
+    position: absolute;
+}
+
+
+img{
+    height: 500px;
+    width: 400px;
+    border-radius: 50px;
+    cursor: pointer;
+    
+}
+.container1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+.container1:hover{
+    background-color: violet;
+    
+}
+.container2:hover{
+    background-color: violet;
+}
